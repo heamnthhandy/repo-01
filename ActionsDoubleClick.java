@@ -17,6 +17,7 @@ public class ActionsDoubleClick {
 		//actions.contextClick(driver.findElement(By.xpath("//button[@ondblclick='myFunction()']"))).perform();
 	    actions.doubleClick(driver.findElement(By.xpath("//button[@ondblclick='myFunction()']"))).perform();
 		
-	}
+SSS	
+}
 
 }
